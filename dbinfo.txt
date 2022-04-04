@@ -1,0 +1,6 @@
+
+host name = localhost
+user name = root
+password = 
+dbname = OCSRC
+port = 80
